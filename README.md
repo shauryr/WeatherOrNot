@@ -1,3 +1,6 @@
+
+![Image of WeatherOrNot](https://github.com/shauryr/WeatherOrNot/blob/master/weatherornot.png)
+
 ## Inspiration
 * Everyone has a bucketlist of places they want to visit. They just can't figure when is the best time to go. 
 * Even if they find that they find it difficult to get the best deals. 
